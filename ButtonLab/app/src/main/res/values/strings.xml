@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Button Lab</string>
+
+    <string name="question_1">1. True or False?</string>
+    <string name="question_2">2. True or False?</string>
+    <string name="question_3">3. True or False?</string>
+    <string name="question_4">4. True or False?</string>
+    <string name="question_5">5. True or False?</string>
+
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+
+    <string name="next_button">Next Button</string>
+
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+
+</resources>
